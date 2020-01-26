@@ -148,7 +148,7 @@ python-gflags==3.1.2
 pytz==2018.9
 pyviz-comms==0.7.2
 pyxdg==0.25
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==18.0.1
 QtAwesome==0.4.4
 qtconsole==4.5.0
